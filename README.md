@@ -2,7 +2,7 @@
 
 - 💻 I'm currently working on Mokaab
 - 📚 I'm currently learning Next.js, PWA
-- 💪 upgrading my coding skills
+- 💪 Improving my coding skills
 
 <br/>
 
