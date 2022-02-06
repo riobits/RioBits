@@ -1,7 +1,6 @@
 # Welcome to my profile 👋
 
-- 💻 I'm currently working on Mokaab
-- 📚 I'm currently learning Next.js, PWA
+- 📚 I'm currently studying for the SAT
 - 💪 Improving my coding skills
 
 <br/>
