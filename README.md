@@ -2,7 +2,6 @@
 
 MERN Stack
 
-- 📚 I'm currently studying for the SAT
 - 💪 Improving my coding skills
 - 💻 technologies: HTML CSS, JavaScript, TypeScript, Python, Sass, Node.js, MongoDB, React.js, Next.js
 
