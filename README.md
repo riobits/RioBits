@@ -11,7 +11,7 @@ MERN Stack
 
 <div align="center">
 
-<h2>Status</h2>
+<h2>Stats</h2>
 
 ![Statistics](https://github-readme-stats.vercel.app/api?username=riobits&show_icons=true&theme=tokyonight)
 
