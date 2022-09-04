@@ -1,13 +1,7 @@
 # Welcome to my profile 👋
 
-MERN Stack
-
 - 💪 Improving my coding skills
-- 💻 technologies: HTML CSS, JavaScript, TypeScript, Python, Sass, Node.js, MongoDB, React.js, Next.js
-
-<br/>
-
-<br/>
+- 💻 technologies: HTML, CSS(Sass), JavaScript(TypeScript)(Node.js), React.js(Next.js), Python, NoSQL(MongoDB)
 
 <div align="center">
 
