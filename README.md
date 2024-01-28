@@ -1,9 +1,12 @@
 # Welcome to my profile 👋
 
-- 💪 Improving my coding skills
-- 💻 technologies: HTML, CSS(Sass), JavaScript(TypeScript)(Node.js), React.js(Next.js), Python, NoSQL(MongoDB)
-
 <div align="center">
+
+💪 Improving my coding skills
+
+<h2>Skills</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,prisma,vite,styledcomponents,sass,tailwind,materialui,nodejs,express,mongodb,mysql,postgres,linux,bash,git,figma,vscode)](https://skillicons.dev)
 
 <h2>Stats</h2>
 
