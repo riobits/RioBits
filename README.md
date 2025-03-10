@@ -6,7 +6,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,prisma,vite,styledcomponents,sass,tailwind,materialui,nodejs,bun,express,mongodb,mysql,postgres,linux,bash,git,figma,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,remix,prisma,vite,styledcomponents,sass,tailwind,materialui,nodejs,bun,express,mongodb,mysql,postgres,linux,bash,git,figma,vscode)](https://skillicons.dev)
 
 ## Stats
 
