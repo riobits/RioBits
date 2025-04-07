@@ -25,7 +25,7 @@ Hi there! I'm Abdulghane, a Full-Stack Developer with a passion for building mod
   "username": "@riobits",
   "isAvailable": true,
   "planet": "Earth 🌍",
-  "age": 21,
+  "age": 21
 }
 ```
 
