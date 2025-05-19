@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20Stack-Full%20Stack-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Framework-React%20%26%20Remix-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Framework-React%20%26%20React%20Router%20v7-white?style=for-the-badge" />
 </p>
 
 ---
@@ -16,7 +16,7 @@
 > Bio loaded. Welcome, traveler 👽
 ```
 
-Hi there! I'm Abdulghane, a Full-Stack Developer with a passion for building modern web applications. I recently started working with Remix, and I'm really enjoying it it's now my go-to framework. Lately, I’ve been focused on freelance projects, helping clients bring their ideas to life with clean, performant, and scalable solutions.
+Hi there! I'm Abdulghane, a Full-Stack Developer with a passion for building modern web applications. I recently started working with React Router v7, and I'm really enjoying it it's now my go-to framework. Lately, I’ve been focused on freelance projects, helping clients bring their ideas to life with clean, performant, and scalable solutions.
 
 ```json
 {
