@@ -21,7 +21,6 @@ Hi there! I'm Abdulghane, a Full-Stack Developer with a passion for building mod
 ```json
 {
   "name": "Abdulghane",
-  "onlineName": "Rio",
   "username": "@riobits",
   "isAvailable": true,
   "planet": "Earth 🌍",
