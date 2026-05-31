@@ -22,7 +22,11 @@ I've shipped 20+ projects for clients across web scraping & automation, bot deve
 - **Infrastructure** Linux/VPS, Docker, nginx, deployment & server configuration
 
 <p>
-  <img src="https://raw.githubusercontent.com/riobits/riobits/output/github-snake.svg" alt="Contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riobits/riobits/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riobits/riobits/output/github-snake.svg" />
+    <img alt="Contributions" src="https://raw.githubusercontent.com/riobits/riobits/output/github-snake.svg" />
+  </picture>
 </p>
 
 ---
