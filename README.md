@@ -21,14 +21,6 @@ I've shipped 20+ projects for clients across web scraping & automation, bot deve
 - **Full-Stack Engineering** TypeScript across the entire pipeline, from DB to UI
 - **Infrastructure** Linux/VPS, Docker, nginx, deployment & server configuration
 
-<p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riobits/riobits/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/riobits/riobits/output/github-snake.svg" />
-    <img alt="Contributions" src="https://raw.githubusercontent.com/riobits/riobits/output/github-snake.svg" />
-  </picture>
-</p>
-
 ---
 
 **Core Stack & Architecture**
