@@ -21,9 +21,7 @@ I've shipped 20+ projects for clients across web scraping & automation, bot deve
 - **Full-Stack Engineering** TypeScript across the entire pipeline, from DB to UI
 - **Infrastructure** Linux/VPS, Docker, nginx, deployment & server configuration
 
----
-
-**Core Stack & Architecture**
+### Core Stack & Architecture
 
 [![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,remix,astro,tailwind,nodejs,bun,mongodb,postgres,redis,linux,docker,python,git,figma)](https://skillicons.dev)
 
