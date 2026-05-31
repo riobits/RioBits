@@ -15,10 +15,9 @@ jobs:
         with:
           github_user_name: riobits
           outputs: |
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/github-snake.svg?palette=github
+            dist/github-snake.svg
 
-      - name: push github-snake-dark.svg to output branch
+      - name: push github-snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
