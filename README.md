@@ -22,8 +22,16 @@ I've shipped 20+ projects for clients across web scraping & automation, bot deve
 - **Infrastructure** Linux/VPS, Docker, nginx, deployment & server configuration
 
 <p>
-  <img src="https://raw.githubusercontent.com/riobits/riobits/output/github-snake-dark.svg" alt="Contributions" />
+  <img src="https://raw.githubusercontent.com/riobits/riobits/output/github-snake-dark.svg" alt="Contributions" /><img src="https://raw.githubusercontent.com/riobits/riobits/output/github-snake.svg" alt="Contributions" />
 </p>
+
+<style>
+  img[alt="Contributions"]:last-child { display: none; }
+  @media (prefers-color-scheme: dark) {
+    img[alt="Contributions"]:first-child { display: none; }
+    img[alt="Contributions"]:last-child { display: block; }
+  }
+</style>
 
 ---
 
