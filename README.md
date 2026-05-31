@@ -23,7 +23,7 @@ I've shipped 20+ projects for clients across web scraping & automation, bot deve
 
 ### Core Stack & Architecture
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,remix,astro,tailwind,nodejs,bun,mongodb,postgres,redis,linux,docker,python,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,nextjs,remix,astro,tailwind,nodejs,bun,mongodb,postgres,redis,linux,docker,python,figma)](https://skillicons.dev)
 
 
 
