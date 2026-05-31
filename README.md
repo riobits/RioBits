@@ -1,5 +1,5 @@
 <h1 align="center">Abdulghani Jasri</h1>
-<p align="center"><i>"An idiot admires complexity. A genius admires simplicity."</i></p>
+<p align="center"><i>"An idiot admires complexity. A genius admires simplicity." — Terry A. Davis</i></p>
 
 <p align="center">
   <a href="https://riobits.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-riobits.dev-0a0a0a?style=flat-square&logo=firefox-browser&logoColor=white" /></a>
